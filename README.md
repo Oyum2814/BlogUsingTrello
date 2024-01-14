@@ -6,4 +6,4 @@
 This is a Blog Site which has been created using Javascript and Trello - Trello is an organizing tool which lets you list data in an organized form.. This site has been created such that any changes to the mentioned Trello  Board will make the required changes on the site as well.
 
 
-[Check it Out here](https://trelloblog.cf/)
+[Check it Out here](https://oyum2814.github.io/BlogUsingTrello/)
